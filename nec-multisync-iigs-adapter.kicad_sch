@@ -684,11 +684,6 @@
     (uuid fd5d519c-ed3d-4890-8fd7-6e14e5782424)
   )
 
-  (text "from https://stason.org/TULARC/pc/apple2/faq/16-015-Which-monitors-and-adapters-can-I-use-to-replace-my-I.html\n(modified for MultiSync 3D)"
-    (at 44.45 56.515 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 6be4fefa-8589-4d7c-bce7-d4b5f037e0a0)
-  )
   (text "to NEC MultiSync - Female" (at 155.575 74.295 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d7ea36bb-7556-4aa5-b138-0d3e5a1af656)
